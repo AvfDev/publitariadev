@@ -6,9 +6,8 @@ const servicesPage = () => {
     <main>
         <div>
             <h1>
-                Services Page
+                Servicios
             </h1>
-            <Link href="/nosotros">Nosotros</Link>
         </div>
     </main>
   )

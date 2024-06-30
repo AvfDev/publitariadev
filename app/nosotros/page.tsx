@@ -6,9 +6,8 @@ const aboutPage = () => {
     <main>
       <div>
           <h1>
-              Nosotros Page
+              Nosotros
           </h1>
-          <Link href="/servicios">Servicios</Link>
       </div>
     </main>
   )
