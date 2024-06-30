@@ -5,9 +5,9 @@ const aboutPage = () => {
   return (
     <main>
       <div>
-          <h1>
+          <h2 className='text-zinc-800'>
               Nosotros
-          </h1>
+          </h2>
       </div>
     </main>
   )

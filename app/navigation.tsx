@@ -24,7 +24,7 @@ const navigation = () => {
                     <Link href="/" className='font-sans text-gray-700'>INICIO</Link>
                     <Link href="/servicios" className='font-sans text-gray-700'>SERVICIOS</Link>
                     <Link href="/nosotros" className='font-sans text-gray-700'>SOBRE NOSOTROS</Link>
-                    <Link href="/nosotros" className='font-sans text-gray-700'>CONTACTO</Link>
+                    <Link href="/contacto" className='font-sans text-gray-700'>CONTACTO</Link>
                 </nav>
             </div>
         </div>

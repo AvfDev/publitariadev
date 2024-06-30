@@ -22,7 +22,7 @@ export default function Home() {
             desarrollar enfoques creativos que atraigan a los clientes y fomenten el engagement.
           </p>
           <div className="flex place-content-center">
-            <Link href="/servicios" className="rounded-md bg-cyan-500 py-4 px-8 text-sm font-semibold text-white text-center border-solid border-2 border-white">Nuestros Servicios</Link>
+            <Link href="/servicios" className="rounded-md main-banner py-4 px-8 text-sm font-semibold text-white text-center border-solid border-2 border-white">Nuestros Servicios</Link>
           </div>
         </div>
       </div>
@@ -106,7 +106,7 @@ export default function Home() {
             </li>
           </ul>
           <div className="flex place-content-center">
-            <Link href="/servicios" className="rounded-md bg-cyan-500 px-3 py-4 px-8 text-sm font-semibold text-white text-center border-solid border-2 border-white">Nuestros Servicios</Link>
+            <Link href="/servicios" className="rounded-md main-banner px-3 py-4 px-8 text-sm font-semibold text-white text-center border-solid border-2 border-white">Nuestros Servicios</Link>
           </div>
         </div>
         <div className="grow-1">

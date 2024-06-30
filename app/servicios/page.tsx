@@ -5,9 +5,9 @@ const servicesPage = () => {
   return (
     <main>
         <div>
-            <h1>
+            <h2 className='text-zinc-800'>
                 Servicios
-            </h1>
+            </h2>
         </div>
     </main>
   )
