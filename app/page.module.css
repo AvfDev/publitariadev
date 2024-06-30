@@ -1,0 +1,7 @@
+.accentColor {
+    color: #37afbe;
+}
+
+.imageClip {
+    clip-path: polygon(50% 0%, 100% 0, 100% 60%, 100% 100%, 0 100%, 21% 51%, 0 0);
+}
